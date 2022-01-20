@@ -53,7 +53,7 @@
         .stylespy-link {
             color: black;
             border: 1px solid black; 
-            background: lightyellow; 
+            background: white; 
             font-family: Arial,sans-serif;
             font-size: 16px;
             font-weight: normal;
@@ -73,8 +73,7 @@
             z-index: 99999999;
             width: auto;
             height: auto;
-            margin: inherit;
-            clip: auto ;
+            clip: auto;
             -webkit-clip-path: none;
             clip-path: none;
         }
